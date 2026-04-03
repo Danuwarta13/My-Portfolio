@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Portfolio - Muchalim Danu Warta</title>
-
+    <link rel="icon" type="image/svg+xml" href="{{ asset('favicon.svg') }}">
     <!-- Script untuk mencegah FOUC (Flash of Unstyled Content) saat mengganti Dark/Light mode -->
     <script>
         if (localStorage.getItem('theme') === 'light') {
