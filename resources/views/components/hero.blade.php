@@ -8,7 +8,7 @@
         <div class="lg:grid lg:grid-cols-2 lg:gap-12 items-center">
 
             <!-- Bagian Kiri: Teks -->
-            <div class="text-center lg:text-left mb-16 lg:mb-0">
+            <div class="text-center my-5 lg:text-left mb-16 lg:mb-0">
                 <div
                     class="inline-block mb-4 px-4 py-1.5 rounded-full border border-indigo-200 dark:border-indigo-500/30 bg-indigo-100 dark:bg-indigo-500/10 backdrop-blur-sm transition-colors duration-500">
                     <span
@@ -86,7 +86,7 @@
                 <div
                     class="relative z-20 w-72 h-72 md:w-[26rem] md:h-[26rem] hover:-translate-y-4 transition-transform duration-500 flex items-end justify-center">
                     <!-- FOTO ANDA (.PNG dengan background transparan) -->
-                    <img src="{{ asset('images/Hero/me-no-bg.png') }}" alt="Muchalim Danu Warta"
+                    <img src="{{ asset('images/Hero/no-bg.png') }}" alt="Muchalim Danu Warta"
                         class="w-full h-full object-contain object-bottom filter drop-shadow-[0_20px_30px_rgba(79,70,229,0.2)] dark:drop-shadow-[0_20px_30px_rgba(79,70,229,0.4)] transition-all duration-500">
                 </div>
             </div>
